@@ -5,7 +5,7 @@ toc_label: "페이지 주요 목차"
 --- 
 
 ### 01. 사주보기
-![fortune](/assets/images/if1.jpg)
+![fortune](/assets/images/fortune.jpg)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -23,7 +23,7 @@ int main(void)
 ~~~
 
 ### 02. 3개의 터널 통과
-![tunnel_height](/assets/images/if2.jpg)
+![tunnel_height](/assets/images/tunnel_height.jpg)
 ~~~c
 #include <stdio.h>
 int main(void)
@@ -43,7 +43,7 @@ int main(void)
 ~~~
 
 ### 03. 이 달은 며칠까지 있을까?
-![last_day_of_month](/assets/images/if3.jpg)
+![last_day_of_month](/assets/images/last_day_of_month.jpg)
 ~~~c
 #include <stdio.h>
 int main(void)
