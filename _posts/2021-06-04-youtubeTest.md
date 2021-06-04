@@ -8,4 +8,4 @@ categories: "Reinforcement Learning"
 ---
 
 ### 01. Introduction of Reinforcement Learning
- {% include video id="J253uI8QPZw4Ft9e" provider="youtube" %}
+ {% include video id="2pWv7GOvuf0" provider="youtube" %}
