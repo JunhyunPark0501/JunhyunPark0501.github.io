@@ -10,7 +10,7 @@ categories: "Reinforcement Learning"
 ### 01. Introduction of Reinforcement Learning
  {% include video id="2pWv7GOvuf0" provider="youtube" %}
  
-### 02. Markov Decisiohn Process
+### 02. Markov Decision Process
  {% include video id="lfHX2hHRMVQ" provider="youtube" %}
 
 ### 03. Planning by Dynamic Programming
