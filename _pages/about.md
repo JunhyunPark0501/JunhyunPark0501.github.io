@@ -1,7 +1,7 @@
 ---
 title: "블로그 소개"
-permalink: /about/
 layout: single
+permalink: /about/
 author_profile: true
 ---
 
